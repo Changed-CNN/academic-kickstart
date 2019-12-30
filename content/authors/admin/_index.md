@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning, computer vision.
+bio: Life has a value only when it has something valuable as its object.
 
 interests:
 - Machine Learning
