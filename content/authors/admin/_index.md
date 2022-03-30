@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master student at Department of Computing&Software
+role: Master student at Department of Computing & Software
 
 # Organizations/Affiliations
 organizations:
@@ -28,11 +28,11 @@ interests:
 
 education:
   courses:
-  - course: M.Eng of Computing and Software
-    institution: McMaster University, Ontario, Canada
+  - course: M.Eng of Computing & Software
+    institution: McMaster University, Canada
     year: 2021-2023
-  - course: B.Eng of Computer Science and Technology
-    institution: Northwestern Polytechnical University, Shaanxi, China
+  - course: B.Eng of Computer Science & Technology
+    institution: Northwestern Polytechnical University, China
     year: 2016-2020
 
 # Social/Academic Networking
