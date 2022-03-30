@@ -94,7 +94,7 @@ address = {street = "149 Bowman Street", city = "Hamilton", region = "Ontario", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-#coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "43.25878902470877", longitude = "-79.92079760089554"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
