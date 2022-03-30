@@ -28,10 +28,10 @@ interests:
 
 education:
   courses:
-  - course: M.Eng of Computing & Software
+  - course: M.Eng of Computing&Software
     institution: McMaster University, Canada
     year: 2021-2023
-  - course: B.Eng of Computer Science & Technology
+  - course: B.Eng of Computer Science
     institution: Northwestern Polytechnical University, China
     year: 2016-2020
 
