@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I’m a 1st-year CS Master student at MCU and got my CS Bachelor degree from NWPU. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sept 2022.
+I’m a 1st-year CS Master student at MCU,Canada and received my CS Bachelor's degree from NWPU,China. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sept 2022.
 
 My interters
