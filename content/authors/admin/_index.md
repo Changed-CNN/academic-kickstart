@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Zhikang Feng
+name: Zhikang(Melo) Feng
 
 # Username (this should match the folder name)
 authors:
@@ -10,26 +10,29 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate of Computer Science
+role: Master student at Department of Computing&Software
 
 # Organizations/Affiliations
 organizations:
-- name: Northwestern Polytechnical University
-  url: ""
+- name: McMaster University
+  url: "https://www.eng.mcmaster.ca/cas"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Life has a value only when it has something valuable as its object.
 
 interests:
-- Machine Learning
-- Deep Learning
-- Computer Vision
+- Web development
+- DevOps
 - Data Mining
+- Deep Learning
 
 education:
   courses:
-  - course: B.Eng in Computer Science
-    institution: Northwestern Polytechnical University, China
+  - course: M.Eng of Computing and Software
+    institution: McMaster University, Ontario, Canada
+    year: 2021-2023
+  - course: B.Eng of Computer Science and Technology
+    institution: Northwestern Polytechnical University, Shaanxi, China
     year: 2016-2020
 
 # Social/Academic Networking
@@ -42,16 +45,16 @@ social:
   link: 'mailto:zhikang.feng98@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://linkedin.com/in/zhikang-feng-073859159
+  link: https://www.linkedin.com/in/zhikang-melo-feng-073859159/
 - icon: github
   icon_pack: fab
   link: https://github.com/Changed-CNN
-- icon: weixin
-  icon_pack: fab
-  link: https://github.com/Changed-CNN
-- icon: facebook
-  icon_pack: fab
-  link: https://github.com/Changed-CNN
+#- icon: weixin
+#  icon_pack: fab
+#  link: https://github.com/Changed-CNN
+#- icon: facebook
+#  icon_pack: fab
+#  link: https://github.com/Changed-CNN
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I’m a 4th-year undergraduate student in the department of Computer Science, Northwestern Polytechnical University, China. My research interests include machine learning and computer vision, especially in the areas of segmentation, retrieval, classification and recognition. I also focus on some projects on Kaggle about data mining. And now I am looking for a Master's position.
+I’m a 1th-year CS Master student at McMaster University. My interests include XXXXXX. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sepetember 2022.
