@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I’m a 1th-year CS Master student at McMaster University. My interests include XXXXXX. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sepetember 2022.
+I’m a 1st-year CS Master student at McMaster University. My interests include XXXXXX. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sepetember 2022.
