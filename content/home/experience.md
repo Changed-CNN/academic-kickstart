@@ -18,14 +18,37 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Software Development Engineer Intern"
+  title = "Research Assistant"
+  company = "Data Science Lab"
+  company_url = ""
+  location = "Hamilton, Canada"
+  date_start = "2021-10-01"
+  date_end = ""
+  description = """
+  — **Parallel data mining for temporal graph functional dependencies** 
+  """
+  
+[[experience]]
+  title = "Research Assistant"
+  company = "Department of Computer Science"
+  company_url = ""
+  location = "Xi'an, China"
+  date_start = "2020-02-01"
+  date_end = "2020-07-01"
+  description = """
+  — **Undergraduate Thesis:Few-shot learning for video clips**
+  """
+  
+[[experience]]
+  title = "Software Develop Engineer Intern"
   company = "Huawei Technology Co., LTD"
   company_url = ""
   location = "Xi'an, China"
   date_start = "2019-07-01"
   date_end = "2019-09-01"
   description = """
-  — **Operations and development of the OWS platform** 
+  — **Development of new features for the OWS platform**</br>
+  — **Operation and Maintenance of the OWS platform**
   """
 
 [[experience]]
@@ -34,7 +57,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Xi'an, China"
   date_start = "2019-06-01"
-  date_end = ""
+  date_end = "2019-12-01"
   description = """
   — **Image retrieval based on semi-supervised learning to hash**
   """
