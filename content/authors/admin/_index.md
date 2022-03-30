@@ -21,8 +21,8 @@ organizations:
 bio: Life has a value only when it has something valuable as its object.
 
 interests:
-- Web development
-- DevOps
+- Web Development
+- Cloud Computing
 - Data Mining
 - Deep Learning
 
