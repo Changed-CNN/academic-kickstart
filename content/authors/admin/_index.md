@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Master student at Department of Computing & Software
+role: Master student at Department of Computing and Software
 
 # Organizations/Affiliations
 organizations:
