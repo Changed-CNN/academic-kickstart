@@ -90,7 +90,7 @@ phone = "+86-18391859007"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "1 Dongxiang Road", city = "Xi'an", region = "Shaan'xi", postcode = "710129", country = "P.R.China", country_code = "CN"}
+address = {street = "149 Bowman Street", city = "Hamilton", region = "Ontario", postcode = "L8S 2T7", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -253,7 +253,7 @@ plugins_js  = []
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  engine = 2
+  engine = 1
   api_key = ""
   zoom = 15
 
