@@ -28,16 +28,6 @@ date_format = "Jan 2006"
   — **Parallel data mining for temporal graph functional dependencies** 
   """
   
-[[experience]]
-  title = "Research Assistant"
-  company = "Department of Computer Science"
-  company_url = ""
-  location = "Xi'an, China"
-  date_start = "2020-02-01"
-  date_end = "2020-07-01"
-  description = """
-  — **Undergraduate Thesis:Few-shot learning for video clips**
-  """
   
 [[experience]]
   title = "Software Develop Engineer Intern"
