@@ -86,11 +86,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "zhikang.feng98@gmail.com"
-phone = "+1-9059219185"
+phone = "(+1)9059219185"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "149 Bowman Street", city = "Hamilton", region = "Ontario", postcode = "L8S 2T7", country = "Canada", country_code = "CA"}
+address = {street = "Information Technology Building", city = "Hamilton", region = "Ontario", postcode = "L8S 1C7", country = "Canada", country_code = "CA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
