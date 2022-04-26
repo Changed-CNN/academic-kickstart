@@ -1,8 +1,8 @@
 ---
 tags: [springboot]
 title: RESTful Microservices with Spring Boot and Spring Cloud
-created: '2021-12-28T00:38:46.309Z'
-modified: '2021-12-28T22:27:30.593Z'
+created: '2021-12-28'
+modified: '2021-12-28'
 ---
 
 # RESTful Microservices with Spring Boot and Spring Cloud
