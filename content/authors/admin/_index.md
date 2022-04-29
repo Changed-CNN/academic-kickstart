@@ -45,7 +45,7 @@ social:
   link: 'mailto:zhikang.feng98@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/zhikang-melo-feng-073859159/
+  link: https://www.linkedin.com/in/zhikang-melo-feng
 - icon: github
   icon_pack: fab
   link: https://github.com/Changed-CNN
@@ -71,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-I’m a 1st-year CS Master student at MCU, Canada and received my CS Bachelor's degree from NPU, China. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sept 2022.
+I’m a 1st-year CS Master student at McMaster University, Canada and received my CS Bachelor's degree from Northwestern Polytechnical University, China. Currently I am looking for a SDE/SWE coop/internship position starting from Fall/Sept 2022.
 
-As a CS student exploring the world of computer science and engineering for over five years, I have solid foundation and object-oriented programming skills. Diverse experience in research and industry brought me a broader understanding of engineering, along with strong analytical, problem-solving, and teamwork abilities. Through hands-on projects, I found transferring innovative ideas and solutions to real life with codes is truly enjoyable. I am always keeping fresh and passionate about new technology and knowledge, and as a fast learner, I can grasp them quickly and leverage them effectively into work processes. Besides, planning goals well in advance and organizing tasks in an orderly way make me a goal-oriented performer with a time management sense.
+As a CS student exploring the world of computer science and engineering for over five years, I have solid foundation of theoretical knowledge as well as strong object-oriented programming skills. Diverse experience in research and industry brought me a broader understanding of engineering, along with strong analytical, problem-solving, and teamwork abilities. Through hands-on projects, I found transferring innovative ideas and solutions to real life with codes is truly enjoyable. I am always keeping fresh and passionate about new technology and knowledge, and as a fast learner, I can grasp them quickly and leverage them effectively into work processes. Besides, planning goals well in advance and organizing tasks in an orderly way make me a goal-oriented performer with a strong time management sense.
